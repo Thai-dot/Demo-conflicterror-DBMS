@@ -1,0 +1,10 @@
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\bin\Debug\Cycle Deadlock 1.exe.config
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\bin\Debug\Cycle Deadlock 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\bin\Debug\Cycle Deadlock 1.pdb
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\obj\Debug\Cycle Deadlock 1.csproj.AssemblyReference.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\obj\Debug\Cycle_Deadlock_1.Form1.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\obj\Debug\Cycle_Deadlock_1.Properties.Resources.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\obj\Debug\Cycle Deadlock 1.csproj.GenerateResource.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\obj\Debug\Cycle Deadlock 1.csproj.CoreCompileInputs.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\obj\Debug\Cycle Deadlock 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Cycle Deadlock\Cycle Deadlock 1\Cycle Deadlock 1\Cycle Deadlock 1\obj\Debug\Cycle Deadlock 1.pdb

@@ -1,0 +1,10 @@
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\bin\Debug\Conversion deadlock 1.exe.config
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\bin\Debug\Conversion deadlock 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\bin\Debug\Conversion deadlock 1.pdb
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\obj\Debug\Conversion deadlock 1.csproj.AssemblyReference.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\obj\Debug\Conversion_deadlock_1.Form1.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\obj\Debug\Conversion_deadlock_1.Properties.Resources.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\obj\Debug\Conversion deadlock 1.csproj.GenerateResource.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\obj\Debug\Conversion deadlock 1.csproj.CoreCompileInputs.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\obj\Debug\Conversion deadlock 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Conversion Deadlock\conversion dl 1\Conversion deadlock 1\Conversion deadlock 1\obj\Debug\Conversion deadlock 1.pdb
