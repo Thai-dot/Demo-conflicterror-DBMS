@@ -1,0 +1,10 @@
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\bin\Debug\Phantom Read 1.exe.config
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\bin\Debug\Phantom Read 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\bin\Debug\Phantom Read 1.pdb
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\obj\Debug\Phantom Read 1.csproj.AssemblyReference.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\obj\Debug\Phantom_Read_1.Form1.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\obj\Debug\Phantom_Read_1.Properties.Resources.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\obj\Debug\Phantom Read 1.csproj.GenerateResource.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\obj\Debug\Phantom Read 1.csproj.CoreCompileInputs.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\obj\Debug\Phantom Read 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Phantom Read\Phantom read 1\Phantom Read 1\Phantom Read 1\obj\Debug\Phantom Read 1.pdb

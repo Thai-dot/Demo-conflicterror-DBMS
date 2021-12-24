@@ -1,0 +1,10 @@
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\bin\Debug\Dirty Read 1.exe.config
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\bin\Debug\Dirty Read 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\bin\Debug\Dirty Read 1.pdb
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\obj\Debug\Dirty Read 1.csproj.AssemblyReference.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\obj\Debug\Dirty_Read_1.Form1.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\obj\Debug\Dirty_Read_1.Properties.Resources.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\obj\Debug\Dirty Read 1.csproj.GenerateResource.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\obj\Debug\Dirty Read 1.csproj.CoreCompileInputs.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\obj\Debug\Dirty Read 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo Dirty Read\Dirty Read 1\Dirty Read 1\Dirty Read 1\obj\Debug\Dirty Read 1.pdb
