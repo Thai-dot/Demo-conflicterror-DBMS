@@ -1,0 +1,10 @@
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\bin\Debug\unrepeatable read 1.exe.config
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\bin\Debug\unrepeatable read 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\bin\Debug\unrepeatable read 1.pdb
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\obj\Debug\unrepeatable read 1.csproj.AssemblyReference.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\obj\Debug\unrepeatable_read_1.Form1.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\obj\Debug\unrepeatable_read_1.Properties.Resources.resources
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\obj\Debug\unrepeatable read 1.csproj.GenerateResource.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\obj\Debug\unrepeatable read 1.csproj.CoreCompileInputs.cache
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\obj\Debug\unrepeatable read 1.exe
+D:\Microsoft SQL studio\Bai Tap\Giao dien HQTCSDL\Demo UnRepeatable Read\unrepeatable read 1\unrepeatable read 1\unrepeatable read 1\obj\Debug\unrepeatable read 1.pdb
